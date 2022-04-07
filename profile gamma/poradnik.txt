@@ -1,0 +1,5 @@
+Wchodzisz w tą ścieżkę %USERPROFILE%\AppData\Roaming\CitizenFX
+
+wchodzisz w plik fivem.cfg i wyszukujesz fraze profile_gamma 
+
+fabrycznie jest ustawiona na 18 gamme ustawiamy na 10000
